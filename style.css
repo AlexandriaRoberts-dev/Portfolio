@@ -1,0 +1,42 @@
+body {
+    font-family: AbortSignal, sans-serif;
+    margin: 0;
+    background: #0f172a;
+    color: #e2e8f0;
+    text-align: center;
+}
+
+header {
+    padding: 40px;
+    background: #1e293b;
+}
+
+section {
+    margin: 30px auto;
+    max-width: 700px;
+    padding: 20px;
+    background: #1e293b;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    margin-top: 10px;
+    border: none;
+    background: #38bdf8;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+button:hover {
+    background: #0ea5e9;
+}
